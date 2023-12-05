@@ -1,0 +1,2 @@
+# Programmentwurf_Prob1_GrundlagenKuenstlicherIntelligenz
+Project for lecture Grundlagen Künstlicher Intelligenz
