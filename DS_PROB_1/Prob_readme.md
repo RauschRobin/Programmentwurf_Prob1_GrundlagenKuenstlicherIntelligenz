@@ -1,0 +1,1 @@
+Die Datensätze dienen als Anhaltspunkt und sollten plausibel in die Netze eingebaut werden. Sie sind in der Regel nicht ausreichend um alle Fälle vollständig abbilden zu können. Hier müssen Ergänzungen, Hintergrundwissen und Annahmen integriert werden.
